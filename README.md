@@ -10,8 +10,8 @@ The recording start time is 2018.11.12 11:08PM.🤣🤣🤣
 
 ##### 🧐🧐🧐基础书籍的笔记 
 
-- [数据结构]()
-- [HTTP]()
+- [数据结构](https://github.com/tujietg/Notes/tree/master/Basis/Data_Strucate)
+- [HTTP](https://github.com/tujietg/Notes/tree/master/Basis/HTTP)
 
 ### JAVA
 
@@ -19,7 +19,16 @@ The recording start time is 2018.11.12 11:08PM.🤣🤣🤣
 
 ##### 🙈🙈🙈关于JAVA的笔记 
 
-- [Servlet-JSP-SpringMVC]()
+### JavaEE
+
+-----
+
+⬆️⬆️⬆️ JavaEE笔记
+
+- [Spring]()
+- [Servlet]()
+
+- [Shiro]()
 
 ### Summary
 
